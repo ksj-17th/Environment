@@ -1032,36 +1032,6 @@ credentials/
 
 ---
 
-# 24. Repository Structure
-
-권장 Repository 구조:
-
-```text
-pfSense-OpenVPN-Lab/
-│
-├── README.md
-│
-├── docs/
-│   ├── network-topology.md
-│   ├── openvpn-client.md
-│   ├── routing.md
-│   ├── firewall.md
-│   └── troubleshooting.md
-│
-├── images/
-│   ├── pfsense-login.png
-│   ├── user-manager.png
-│   ├── client-specific-override.png
-│   ├── client-export.png
-│   ├── routing-setting.png
-│   ├── firewall-rules.png
-│   └── aliases.png
-│
-└── .gitignore
-```
-
----
-
 ## Environment
 
 ```text
